@@ -1,0 +1,22 @@
+h1{
+   color:green;
+   text-align: center;
+}
+.lead{
+   
+    text-align: center;
+}
+.btn{
+    background-color: #3D904B;
+    border: none;
+}
+.btn:hover{
+    background-color: green;
+}
+.card-m{
+    border: none;
+}
+.card-baslik{
+    
+    color: green;
+}
